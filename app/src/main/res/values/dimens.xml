@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvSplashSize">50sp</dimen>
+    <dimen name="nvWidth">150dp</dimen>
+    <dimen name="nvHeight">100dp</dimen>
+    <dimen name="nvMarginTop">25dp</dimen>
+    <dimen name="nhWidth">162dp</dimen>
+    <dimen name="nhHeight">300dp</dimen>
+    <dimen name="llAboutPadding">20dp</dimen>
+    <dimen name="tvAbout">50sp</dimen>
+    <dimen name="ivSize">75dp</dimen>
+    <dimen name="cvPadding">6dp</dimen>
+    <dimen name="cvRadius">10dp</dimen>
+    <dimen name="viewArticlePagerSize">18sp</dimen>
+    <dimen name="llViewArticlePadding">10dp</dimen>
+    <dimen name="llViewArticleMarginTop">20dp</dimen>
+    <dimen name="infoWindowPadding">10dp</dimen>
+    <dimen name="ivWidth">300dp</dimen>
+    <dimen name="ivHeight">150dp</dimen>
+</resources>

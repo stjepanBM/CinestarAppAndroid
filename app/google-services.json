@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741856949579",
+    "firebase_url": "https://articles-ea2bd-default-rtdb.firebaseio.com",
+    "project_id": "articles-ea2bd",
+    "storage_bucket": "articles-ea2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741856949579:android:6807834d7d8f110b1864ce",
+        "android_client_info": {
+          "package_name": "hr.algebra.articles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741856949579-ttjicfm5a7pm0nr8384apa2t41h3cg2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJL0XALgFQkx7RA8KThTvRpGJIpAvco3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741856949579-ttjicfm5a7pm0nr8384apa2t41h3cg2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
